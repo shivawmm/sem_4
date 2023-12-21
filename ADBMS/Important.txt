@@ -1,0 +1,9 @@
+1. Serial vs Non Serial Schedules
+2. Serial vs Serializable Schedule
+3. Serializable vs Non-Serializable Schedule
+4. Conflict vs View Serializability
+5. Recoverable vs Non recoverable Schedule
+6. Primary key vs Unique key vs Foreign key
+7. Domain key Constraint vs Integrity constraint
+8. Comparison of various normal forms
+9. Functional Dependency vs fully functional dependency

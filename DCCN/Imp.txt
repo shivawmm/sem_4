@@ -1,0 +1,17 @@
+Application layer protocol
+ICMP (Types of icmp messages)
+IPv4 datagram format diagram
+Distance Vector (Bellman Ford algo) ex - RIP
+Linked State (Djikstra algo)
+Classifictaion of routing - Static and Dynamic, Adaptive(Dynamic) and Non Adaptive(Static) routing
+Hierarchical Routing
+TCP/IP
+Connection Establishment - 3 ways
+       TCP header 
+	 Data transfer
+TCP (only study from book) - also called stream oriented protocol.
+3-way handshaking TCP
+Ques: 
+For class C address we need 5 subnets of 60,60,60,30,30 ports. Design a network accordingly.
+Congestion control (Tocken Bucket/ Piggy Control)
+TCP Congestion control
